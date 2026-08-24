@@ -1,4 +1,4 @@
-# Phishing URL & Domain Impersonation Detector
+# Phishing & Domain Impersonation Detector
 
 A Python-based security tool designed to identify malicious links, brand impersonation, and typo-squatted domains.
 
